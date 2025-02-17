@@ -1,4 +1,4 @@
-# welcome to v2raya.net
+# welcome to proxyplazza.com
 User-agent: *
 
 Disallow: /js/
@@ -8,4 +8,4 @@ Disallow: /vendors/
 Disallow: /lib/
 Disallow: /goto/
 
-Sitemap: https://v2raya.net/sitemap.xml
+Sitemap: https://proxyplazza.com/sitemap.xml
