@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/free-nodes/2024-10-30-free-node-subscribe.html</loc>
+    <loc>https://proxyplazza.com/free-nodes/2024-10-31-free-node-subscribe.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/free-nodes/2024-10-31-free-node-subscribe.html</loc>
+    <loc>https://proxyplazza.com/free-nodes/2024-10-30-free-node-subscribe.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://proxyplazza.com/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://proxyplazza.com/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/</loc>
+    <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
+    <loc>https://proxyplazza.com/manual/</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -945,20 +945,6 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/tags/ArchLinux/</loc>
-    <lastmod>2025-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/tags/Manjaro/</loc>
-    <lastmod>2025-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://proxyplazza.com/tags/Debian/</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -967,6 +953,20 @@
   
   <url>
     <loc>https://proxyplazza.com/tags/Ubuntu/</loc>
+    <lastmod>2025-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/tags/ArchLinux/</loc>
+    <lastmod>2025-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/tags/Manjaro/</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
