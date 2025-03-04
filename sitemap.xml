@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/WgetCloud/WgetCloud_introduction.html</loc>
+    <loc>https://proxyplazza.com/CyberGuard/CyberGuard_instroduction.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/CyberGuard/CyberGuard_instroduction.html</loc>
+    <loc>https://proxyplazza.com/WgetCloud/WgetCloud_introduction.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -191,15 +191,6 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/loadbalance.html</loc>
-    
-    <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
     
     <lastmod>2025-02-16</lastmod>
@@ -209,7 +200,25 @@
   </url>
   
   <url>
+    <loc>https://proxyplazza.com/manual/loadbalance.html</loc>
+    
+    <lastmod>2025-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://proxyplazza.com/manual/transparent-proxy.html</loc>
+    
+    <lastmod>2025-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/recommen/how_to_chose_proxy_nodes.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -228,15 +237,6 @@
   
   <url>
     <loc>https://proxyplazza.com/recommen/make_money_via_instagram.html</loc>
-    
-    <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/recommen/how_to_chose_proxy_nodes.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
