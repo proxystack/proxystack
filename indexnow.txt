@@ -32,7 +32,6 @@ https://proxyplazza.com/manual/intranet-sharing.html
 https://proxyplazza.com/manual/loadbalance.html
 https://proxyplazza.com/manual/transparent-proxy.html
 https://proxyplazza.com/recommen/how_to_chose_proxy_nodes.html
-https://proxyplazza.com/recommen/hysteria2_node_providers.html
 https://proxyplazza.com/recommen/make_money_via_instagram.html
 https://proxyplazza.com/recommen/v2ray_node_recommendations.html
 https://proxyplazza.com/advanced-application/
