@@ -191,15 +191,6 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/WgetCloud/WgetCloud_introduction.html</loc>
-    
-    <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxyplazza.com/CyberGuard/CyberGuard_instroduction.html</loc>
     
     <lastmod>2025-02-16</lastmod>
@@ -209,7 +200,25 @@
   </url>
   
   <url>
+    <loc>https://proxyplazza.com/WgetCloud/WgetCloud_introduction.html</loc>
+    
+    <lastmod>2025-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://proxyplazza.com/manual/address-port.html</loc>
+    
+    <lastmod>2025-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/manual/import.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -228,15 +237,6 @@
   
   <url>
     <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
-    
-    <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/manual/import.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
