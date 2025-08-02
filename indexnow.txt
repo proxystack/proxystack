@@ -32,8 +32,8 @@ https://proxyplazza.com/hiddify/hiddify_next_mobile_install.html
 https://proxyplazza.com/CyberGuard/CyberGuard_instroduction.html
 https://proxyplazza.com/WgetCloud/WgetCloud_introduction.html
 https://proxyplazza.com/manual/address-port.html
-https://proxyplazza.com/manual/import.html
 https://proxyplazza.com/manual/
+https://proxyplazza.com/manual/import.html
 https://proxyplazza.com/manual/loadbalance.html
 https://proxyplazza.com/manual/intranet-sharing.html
 https://proxyplazza.com/manual/transparent-proxy.html
@@ -42,8 +42,8 @@ https://proxyplazza.com/recommen/make_money_via_instagram.html
 https://proxyplazza.com/advanced-application/
 https://proxyplazza.com/install/linux.html
 https://proxyplazza.com/reami/reami_introduction.html
-https://proxyplazza.com/install/podman.html
 https://proxyplazza.com/install/debian.html
+https://proxyplazza.com/install/podman.html
 https://proxyplazza.com/install/alpine.html
 https://proxyplazza.com/recommen/make_dollars_approaches.html
 https://proxyplazza.com/manual/prevent-dns-spoofing.html
