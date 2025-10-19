@@ -4,25 +4,7 @@
   <url>
     <loc>https://proxyplazza.com/free-nodes/2025-free-v2ray-node-subscriptions.html</loc>
     
-    <lastmod>2025-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/free-nodes/free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/reami/reami_introduction.html</loc>
-    
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,25 @@
   <url>
     <loc>https://proxyplazza.com/recommen/v2ray_node_recommendations.html</loc>
     
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/free-nodes/free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/reami/reami_introduction.html</loc>
+    
+    <lastmod>2025-10-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://proxyplazza.com/recommen/vpn_and_proxies_recommendations.html</loc>
     
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>https://proxyplazza.com/recommendation/</loc>
     
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/</loc>
+    <loc>https://proxyplazza.com/manual/import.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/import.html</loc>
+    <loc>https://proxyplazza.com/manual/</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -625,7 +625,7 @@
 
   <url>
     <loc>https://proxyplazza.com/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
