@@ -4,16 +4,7 @@
   <url>
     <loc>https://proxyplazza.com/recommendation/</loc>
     
-    <lastmod>2025-11-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/recommen/v2ray_node_recommendations.html</loc>
-    
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2025-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,16 @@
   <url>
     <loc>https://proxyplazza.com/recommen/vpn_and_proxies_recommendations.html</loc>
     
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2025-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/recommen/v2ray_node_recommendations.html</loc>
+    
+    <lastmod>2025-11-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/</loc>
+    <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
+    <loc>https://proxyplazza.com/manual/</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -625,7 +625,7 @@
 
   <url>
     <loc>https://proxyplazza.com/</loc>
-    <lastmod>2025-11-24</lastmod>
+    <lastmod>2025-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
