@@ -1,3 +1,4 @@
+https://proxyplazza.com/recommen/macos-proxy-clients.html
 https://proxyplazza.com/recommen/windows-proxy-clients.html
 https://proxyplazza.com/gfw/FAQs_about_circumventing_gfw.html
 https://proxyplazza.com/recommen/vpn_and_proxies_recommendations.html
@@ -34,12 +35,12 @@ https://proxyplazza.com/CyberGuard/CyberGuard_instroduction.html
 https://proxyplazza.com/WgetCloud/WgetCloud_introduction.html
 https://proxyplazza.com/manual/address-port.html
 https://proxyplazza.com/manual/import.html
+https://proxyplazza.com/manual/
 https://proxyplazza.com/manual/intranet-sharing.html
 https://proxyplazza.com/manual/loadbalance.html
-https://proxyplazza.com/manual/
 https://proxyplazza.com/manual/transparent-proxy.html
-https://proxyplazza.com/recommen/how_to_chose_proxy_nodes.html
 https://proxyplazza.com/recommen/make_money_via_instagram.html
+https://proxyplazza.com/recommen/how_to_chose_proxy_nodes.html
 https://proxyplazza.com/advanced-application/
 https://proxyplazza.com/install/debian.html
 https://proxyplazza.com/install/podman.html

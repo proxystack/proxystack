@@ -1,3 +1,4 @@
+https://proxyplazza.com/recommen/macos-proxy-clients.html
 https://proxyplazza.com/recommen/windows-proxy-clients.html
 https://proxyplazza.com/gfw/FAQs_about_circumventing_gfw.html
 https://proxyplazza.com/recommen/vpn_and_proxies_recommendations.html
@@ -7,4 +8,3 @@ https://proxyplazza.com/recommen/proxy-recommendations.html
 https://proxyplazza.com/hiddify/hiddify_next_mobile_install.html
 https://proxyplazza.com/hiddify/How_to_use_HiddifyCli.html
 https://proxyplazza.com/install/windows.html
-https://proxyplazza.com/install/linux.html
