@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://proxyplazza.com/recommen/proxy-recommendations.html</loc>
+    <loc>https://proxyplazza.com/recommen/windows-proxy-clients.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/gfw/FAQs_about_circumventing_gfw.html</loc>
+    
+    <lastmod>2026-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/recommen/vpn_and_proxies_recommendations.html</loc>
+    
+    <lastmod>2026-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/free-nodes/free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2026-08-08</lastmod>
     
@@ -11,9 +38,18 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/hiddify/How_to_use_HiddifyCli.html</loc>
+    <loc>https://proxyplazza.com/free-nodes/2025-free-v2ray-node-subscriptions.html</loc>
     
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/recommen/proxy-recommendations.html</loc>
+    
+    <lastmod>2026-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/install/windows.html</loc>
+    <loc>https://proxyplazza.com/hiddify/How_to_use_HiddifyCli.html</loc>
     
     <lastmod>2026-08-04</lastmod>
     
@@ -38,18 +74,9 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/free-nodes/free-v2ray-node-subscriptions.html</loc>
+    <loc>https://proxyplazza.com/install/windows.html</loc>
     
-    <lastmod>2026-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/free-nodes/2025-free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -74,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/recommen/vpn_and_proxies_recommendations.html</loc>
-    
-    <lastmod>2026-04-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxyplazza.com/recommen/v2ray_node_recommendations.html</loc>
     
     <lastmod>2026-04-17</lastmod>
@@ -95,15 +113,6 @@
     <loc>https://proxyplazza.com/reami/reami_introduction.html</loc>
     
     <lastmod>2026-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://proxyplazza.com/gfw/FAQs_about_circumventing_gfw.html</loc>
-    
-    <lastmod>2026-01-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -245,15 +254,6 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
-    
-    <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://proxyplazza.com/manual/import.html</loc>
     
     <lastmod>2025-02-16</lastmod>
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://proxyplazza.com/manual/</loc>
+    <loc>https://proxyplazza.com/manual/intranet-sharing.html</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -273,6 +273,15 @@
   
   <url>
     <loc>https://proxyplazza.com/manual/loadbalance.html</loc>
+    
+    <lastmod>2025-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://proxyplazza.com/manual/</loc>
     
     <lastmod>2025-02-16</lastmod>
     
@@ -625,7 +634,7 @@
 
   <url>
     <loc>https://proxyplazza.com/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
